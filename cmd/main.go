@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"go-functional/pkg/functional"
+	"github.com/Feralthedogg/go-functional/pkg/functional"
 
 	"github.com/asynkron/protoactor-go/actor"
 )

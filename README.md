@@ -7,7 +7,7 @@ it leverages **Proto.Actor** to provide **Supervisor Trees and Restart Strategie
 
 ## Features
 - `Map, Reduce` -> Transform and reduce slice data efficiently
-- `Curry & Compse` -> High-order functions, currying, and function composition
+- `Curry & Compose` -> High-order functions, currying, and function composition
 - `Maybe Monad` -> Safe value handling (`Some`, `None`)
 - `Immutale List` -> Immutable list implementation
 - `Lazy Evaluation` -> Generate values only when needed
